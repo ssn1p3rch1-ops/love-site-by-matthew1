@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>❤️</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #ffdde1;
+      font-family: Arial;
+    }
+    h1 {
+      font-size: 50px;
+      color: #ff3366;
+    }
+  </style>
+</head>
+<body>
+  <h1>люблю тебя, даян ❤️</h1>
+</body>
+</html>
